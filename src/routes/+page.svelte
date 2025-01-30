@@ -1,3 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
-fgdgdfgfdggfd
+<head>
+  <style>
+    body {
+      background-image: url('ar8eg.webp');  
+      background-size: cover; 
+      background-position: center; 
+      background-attachment: fixed; 
+      font-family: 'Times New Roman', Times, serif;
+    }
+  </style>
+</head>
+<h5><p>Bem vindo ao meu site, fique à vontade!</p></h5>
+
+
