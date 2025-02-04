@@ -1,4 +1,4 @@
-<title>Início - UEFA Champions League</title>
+<title>Início - Dexter</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -70,7 +70,7 @@
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
         }
 
-        /* Galeria de Times */
+        /* Vilões */
         .team-gallery {
             display: flex;
             flex-wrap: wrap;
@@ -136,21 +136,21 @@
     </style>
 
 
-    <!-- Barra de navegação -->
     <nav>
         <div class="logo-container">
             <img src="teste.jpg" alt="UEFA Champions League" class="logo">
             <span style="color: white; font-size: 1.7em; font-weight: bold;">UEFA Champions League</span>
         </div>
         <ul>
-            <li><a href="noticias">Notícias</a></li>
-            <li><a href="classificacao">Classificação</a></li>
-            <li><a href="estadio">Estádio</a></li>
+            <li><a href="Eps">Melhores Episódios</a></li>
+            <li><a href="Descrições">Descrições</a></li>
+            <li><a href="Imdb">Imdb</a></li>
+            <li><a href="Notícias">Notícias</a></li>
         </ul>
     </nav>
 
 
-    <!-- Seção Galeria de Times -->
+    <!-- Vilões -->
     <div class="container">
         <div class="section-title">Vilões de Dexter</div>
         <div class="team-gallery">
