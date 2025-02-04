@@ -138,8 +138,8 @@
 
     <nav>
         <div class="logo-container">
-            <img src="teste.jpg" alt="UEFA Champions League" class="logo">
-            <span style="color: white; font-size: 1.7em; font-weight: bold;">UEFA Champions League</span>
+            <img src="teste.jpg" alt="Dexter" class="logo">
+            <span style="color: white; font-size: 1.7em; font-weight: bold;">Dexter</span>
         </div>
         <ul>
             <li><a href="Eps">Melhores Episódios</a></li>
@@ -155,34 +155,36 @@
         <div class="section-title">Vilões de Dexter</div>
         <div class="team-gallery">
             <div class="team-card">
-                <img src="BrianMoser.webp" alt="Liverpool">
+                <img src="BrianMoser.webp" alt="Brian Moser">
                 <h3>Brian Moser</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/FC_Barcelona_%28logo%29.svg" alt="Barcelona">
+                <img src="avatarhd.avif" alt="Lila West">
                 <h3>Lila West</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Atletico_Madrid_logo.svg" alt="Atlético de Madrid">
+                <img src="Miguel_Prado.webp" alt="Miguel Prado">
                 <h3>Miguel Prado</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Arsenal_FC.svg" alt="Arsenal">
+                <img src="trinity.jpg" alt="Trinity">
                 <h3>Trinity</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Bayer_04_Leverkusen.svg" alt="Bayer Leverkusen">
+                <img src="from-jordan-chase-to-sherlock-holmes-this-dude-is-an-v0-209vqmu72m2d1.webp" alt="Jordan Chase">
                 <h3>Jordan Chase</h3>
             </div>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/FC_Internazionale_Milano_logo.svg" alt="Internazionale">
+                <img src="TravisM.webp" alt="Travis Marshall">
                 <h3>Travis Marshall</h3>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/FC_Internazionale_Milano_logo.svg" alt="Internazionale">
+                <img src="Isaak_Sirko_Dexter.webp" alt="Isaak Sirko">
                 <h3>Isaak Sirko</h3>
             <div class="team-card">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/FC_Internazionale_Milano_logo.svg" alt="Internazionale">
+                <img src="Oliver_Saxon.webp" alt="Oliver Saxon">
                 <h3>Oliver Saxon</h3>
             </div>
         </div>
     </div>
+    </div>
+</div>
