@@ -1,2 +1,2 @@
 Decidi fazer esse projeto com o intuito de apresentar de forma simples a série dexter que eu gosto muito.
- Acredito que as maiores dificildades foram em relação ao github pois tive uma grande quantidade de erros ao longo da construção do projeto.
+ Acredito que as maiores dificuldades foram em relação ao github pois tive uma grande quantidade de erros ao longo da construção do projeto.
