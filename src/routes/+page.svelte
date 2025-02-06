@@ -1,7 +1,7 @@
 <style>
     :global(html) {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background: url('background.jpg') no-repeat center center fixed;
+        background: url('teste.jpg') no-repeat center center fixed;
         background-size: cover;
         margin: 0;
         text-align: center;
@@ -59,19 +59,25 @@
         color: #0061F2;
     }
 
+    /* Fundo para os vilões */
+    .background-viloes {
+        background: url('teste.jpg') no-repeat center center;
+        background-size: cover;
+        padding: 50px 0;
+    }
+
     /* Vilões */
     .team-gallery {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         gap: 20px;
         justify-items: center;
-        margin-top: 100px;
-        padding: 20px;
+        padding: 40px;
     }
 
     .team-card {
         width: 250px;
-        background-color: #ffffff;
+        background-color: rgba(255, 255, 255, 0.8);
         border-radius: 15px;
         box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
         padding: 15px;
@@ -81,7 +87,7 @@
 
     .team-card img {
         width: 100%;
-        height: 180px;
+        height: 300px;
         object-fit: cover;
         border-radius: 10px;
         transition: transform 0.3s ease;
@@ -110,48 +116,50 @@
         <span style="color: white; font-size: 1.7em; font-weight: bold;">Dexter</span>
     </div>
     <ul>
-        <li><a href="Eps">Melhores Episódios</a></li>
+        <li><a href="Episódios">Episódios</a></li>
         <li><a href="Descrições">Descrições</a></li>
-        <li><a href="Imdb">Imdb</a></li>
+        <li><a href="https://www.imdb.com/pt/title/tt0773262/?ref_=nv_sr_srsg_0_tt_2_nm_6_q_dexter" target="_blank">Imdb</a></li>
         <li><a href="Notícias">Notícias</a></li>
     </ul>
 </nav>
 
 <!-- Vilões -->
-<div class="container">
-    <div class="section-title">Vilões de Dexter</div>
-    <div class="team-gallery">
-        <div class="team-card">
-            <img src="BrianMoser.webp" alt="Brian Moser">
-            <h3>Brian Moser</h3>
-        </div>
-        <div class="team-card">
-            <img src="avatarhd.avif" alt="Lila West">
-            <h3>Lila West</h3>
-        </div>
-        <div class="team-card">
-            <img src="Miguel_Prado.webp" alt="Miguel Prado">
-            <h3>Miguel Prado</h3>
-        </div>
-        <div class="team-card">
-            <img src="trinity.jpg" alt="Trinity">
-            <h3>Trinity</h3>
-        </div>
-        <div class="team-card">
-            <img src="from-jordan-chase-to-sherlock-holmes-this-dude-is-an-v0-209vqmu72m2d1.webp" alt="Jordan Chase">
-            <h3>Jordan Chase</h3>
-        </div>
-        <div class="team-card">
-            <img src="TravisM.webp" alt="Travis Marshall">
-            <h3>Travis Marshall</h3>
-        </div>
-        <div class="team-card">
-            <img src="Isaak_Sirko_Dexter.webp" alt="Isaak Sirko">
-            <h3>Isaak Sirko</h3>
-        </div>
-        <div class="team-card">
-            <img src="Oliver_Saxon.webp" alt="Oliver Saxon">
-            <h3>Oliver Saxon</h3>
+<div class="background-viloes">
+    <div class="container">
+        <div class="section-title">Vilões de Dexter</div>
+        <div class="team-gallery">
+            <div class="team-card">
+                <img src="BrianMoser.webp" alt="Brian Moser">
+                <h3>Brian Moser</h3>
+            </div>
+            <div class="team-card">
+                <img src="avatarhd.avif" alt="Lila West">
+                <h3>Lila West</h3>
+            </div>
+            <div class="team-card">
+                <img src="Miguel_Prado.webp" alt="Miguel Prado">
+                <h3>Miguel Prado</h3>
+            </div>
+            <div class="team-card">
+                <img src="trinity.jpg" alt="Trinity">
+                <h3>Trinity</h3>
+            </div>
+            <div class="team-card">
+                <img src="from-jordan-chase-to-sherlock-holmes-this-dude-is-an-v0-209vqmu72m2d1.webp" alt="Jordan Chase">
+                <h3>Jordan Chase</h3>
+            </div>
+            <div class="team-card">
+                <img src="TravisM.webp" alt="Travis Marshall">
+                <h3>Travis Marshall</h3>
+            </div>
+            <div class="team-card">
+                <img src="Isaak_Sirko_Dexter.webp" alt="Isaak Sirko">
+                <h3>Isaak Sirko</h3>
+            </div>
+            <div class="team-card">
+                <img src="Oliver_Saxon.webp" alt="Oliver Saxon">
+                <h3>Oliver Saxon</h3>
+            </div>
         </div>
     </div>
 </div>
